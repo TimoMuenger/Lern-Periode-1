@@ -16,11 +16,14 @@ Das Programierne von etwas oder jemandem der dir verschiedene Fragen stellt (Alt
 
 ## 30.4.2024
 
-- [ ] Erstes Arbeitspaket: Ein eingabefeld programieren
-- [ ] Zweites Arbeitspaket: In das Eingebefeld hinein Schreiben können
-- [ ] Drittes Arbeitspaket: Die webseite soll erkenne was man geschrieben hat
-- [ ] Viertes AP: Die webseite soll drauf reagieren können
+- [x] Erstes Arbeitspaket: Ein eingabefeld programieren
+- [x] Zweites Arbeitspaket: In das Eingebefeld hinein Schreiben können
+- [x] Drittes Arbeitspaket: Das Program soll erkenne was man geschrieben hat
+- [x] Viertes AP: Das Program soll drauf reagieren können
 
-✍️ Heute habe ich... (50-100 Wörter)
+ ##
+ Heute habe ich jedes Arbeitspacket erledigt. Auch weiss ich jetzt, dass wir erst ende Jahr eine Webseite erstellen lernen. Daher habe ich die Pakete teils ein wenig verändert.
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+ Beim nächsten mal möchte ich lernen wie man eine Liste mit c# programmiert und wie ich diese in mein Programm auf verschiedene arten einbauen kann.
+  
+
