@@ -25,10 +25,10 @@ Das Programierne von etwas oder jemandem der dir verschiedene Fragen stellt (Alt
  Heute habe ich jedes Arbeitspacket erledigt. Auch weiss ich jetzt, dass wir erst ende Jahr eine Webseite erstellen lernen. Daher habe ich die Pakete teils ein wenig verändert.
 
  Beim nächsten mal möchte ich lernen wie man eine Liste mit c# programmiert und wie ich diese in mein Programm auf verschiedene arten einbauen kann.
-  [ ] Paket 1 Lernen wie mann eine Liste macht
-  [ ] Paket 2 Selber eine Liste machen
-  [ ] Paket 3 Diese Liste in mein Programm einbauen
-  [ ] Paket 4 Nach weiteren Sachen schauen die man einbauen könnte
+ - [ ] Paket 1 Lernen wie mann eine Liste macht
+ - [ ] Paket 2 Selber eine Liste machen
+-  [ ] Paket 3 Diese Liste in mein Programm einbauen
+ - [ ] Paket 4 Nach weiteren Sachen schauen die man einbauen könnte
   
   
   
