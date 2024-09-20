@@ -50,6 +50,9 @@ Bei den Vierten Arbeitspaketen wollte ich den Numberguesser so ändern, dass er 
 Fazit: Ich habe jetzt eine funktionierendes Eingabefeld und einen nicht funktionierender Numberguesser
 ![grafik](https://github.com/user-attachments/assets/237557ba-2776-4618-9a66-5b323f7827d5)
 
+Reflexion:
+Ich denke ich habe gut gearbeitet und ich habe auch einiges über c# und Allgemein über das Programieren gelert. Ich habe mir immer mühe gegeben bei den Arbeitspaketen auch wenn es manchmal nicht geklappt hat.
+Und im Allgemeinen bin ich zufrieden mit meiner Arbeit 
 
 
 
