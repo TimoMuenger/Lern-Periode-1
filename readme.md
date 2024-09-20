@@ -38,6 +38,8 @@ Das Programierne von etwas oder jemandem der dir verschiedene Fragen stellt (Alt
   ✍️ Heute konnte ich soweit alles erledigen aber leider funktioniert mein Code noch nicht richtig. Für das will ich vor den Ferien noch eine Lösung finden.
 - [ ] AP 1: Code studieren und herausfinden wo der Fehler liegt
 - [ ] AP 2: Eine lösung finden um den Fehler zu beheben
-
-      ✍️ Ich konnte beide Arbeitspakete so halb erledigen, da ich 2 von den 4 Fehlern im Code beheben konnte. Für die anderen beiden hätte ich noch etwas Zeit gebrauch.
+  
+            ✍️ Ich konnte beide Arbeitspakete so halb erledigen, da ich 2 von den 4 Fehlern im Code beheben konnte. Für die anderen beiden hätte ich noch etwas Zeit gebrauch.
        Aber im Allgemeinen bin ich zufrieden mit den verschiedenen Codes.
+
+
