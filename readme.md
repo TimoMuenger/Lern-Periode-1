@@ -42,4 +42,11 @@ Das Programierne von etwas oder jemandem der dir verschiedene Fragen stellt (Alt
             ✍️ Ich konnte beide Arbeitspakete so halb erledigen, da ich 2 von den 4 Fehlern im Code beheben konnte. Für die anderen beiden hätte ich noch etwas Zeit gebrauch.
        Aber im Allgemeinen bin ich zufrieden mit den verschiedenen Codes.
 
+Zusammenfassung Projekt:
+Bei den Ersten Arbeitspaketen habe ich ein Eingabefeld programmiert. Dies lief von anfang an sehr gut und ich hatte Spass daran.
+Bei den Zweiten Arbeitspaketen wollte ich zuerst eine Liste erstellen. Aber die Liste war zu schwierig und ich konnte keines erledigen, ich brauchte einen neuen Plan.
+Bei den dritten Arbeitspaketen wollte ich mich an einem Numberguesser versuchen. Ich hatte einen grossen Code doch leider funktionierte dieser noch nicht. Ich musste die Fehler finden
+Bei den Vierten Arbeitspaketen wollte ich den Numberguesser so ändern, dass er funktioniert. Es gelang mir aber nur 2 von den 4 Fehlern zu finden und leider funktioniert er jetzt immer noch nicht.
+Fazit: Ich habe jetzt eine funktionierendes Eingabefeld und einen nicht funktionierender Numberguesser
+
 
