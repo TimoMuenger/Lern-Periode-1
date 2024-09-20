@@ -48,5 +48,8 @@ Bei den Zweiten Arbeitspaketen wollte ich zuerst eine Liste erstellen. Aber die 
 Bei den dritten Arbeitspaketen wollte ich mich an einem Numberguesser versuchen. Ich hatte einen grossen Code doch leider funktionierte dieser noch nicht. Ich musste die Fehler finden
 Bei den Vierten Arbeitspaketen wollte ich den Numberguesser so ändern, dass er funktioniert. Es gelang mir aber nur 2 von den 4 Fehlern zu finden und leider funktioniert er jetzt immer noch nicht.
 Fazit: Ich habe jetzt eine funktionierendes Eingabefeld und einen nicht funktionierender Numberguesser
+![grafik](https://github.com/user-attachments/assets/237557ba-2776-4618-9a66-5b323f7827d5)
+
+
 
 
