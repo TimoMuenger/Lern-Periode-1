@@ -30,8 +30,8 @@ Das Programierne von etwas oder jemandem der dir verschiedene Fragen stellt (Alt
 -  [ ] Paket 3 Diese Liste in mein Programm einbauen
  - [ ] Paket 4 Nach weiteren Sachen schauen die man einbauen könnte
     
-  ✍️ Heute konnte ich kein Arbeitspaket erledigen, da mein vorhaben zu kompliziert für mein jetztiges können ist. Ich musss also meine Arbeitspakete umschreiben und eine besser Lösung finden.  
-          Ich habe mir gedacht, dass ich vielleicht versuche einen random number guesser zu machen oder ähnliches.
+  ✍️ Heute konnte ich kein Arbeitspaket erledigen, da mein vorhaben zu kompliziert für mein jetztiges können ist. Ich musss also meine Arbeitspakete umschreiben und eine besser Lösung finden.
+  Ich habe mir gedacht, dass ich vielleicht versuche einen random number guesser zu machen oder ähnliches.
 - [x] AP 1: Über den Numberguesser informieren
 - [x] AP 2: Selber einen Nuberguesser programieren 
        
@@ -39,10 +39,10 @@ Das Programierne von etwas oder jemandem der dir verschiedene Fragen stellt (Alt
 - [ ] AP 1: Code studieren und herausfinden wo der Fehler liegt
 - [ ] AP 2: Eine lösung finden um den Fehler zu beheben
   
-            ✍️ Ich konnte beide Arbeitspakete so halb erledigen, da ich 2 von den 4 Fehlern im Code beheben konnte. Für die anderen beiden hätte ich noch etwas Zeit gebrauch.
-       Aber im Allgemeinen bin ich zufrieden mit den verschiedenen Codes.
+ ✍️ Ich konnte beide Arbeitspakete so halb erledigen, da ich 2 von den 4 Fehlern im Code beheben konnte. Für die anderen beiden hätte ich noch etwas Zeit gebrauch.
+ Aber im Allgemeinen bin ich zufrieden mit den verschiedenen Codes.
 
-Zusammenfassung Projekt:
+## Zusammenfassung Projekt:
 Bei den Ersten Arbeitspaketen habe ich ein Eingabefeld programmiert. Dies lief von anfang an sehr gut und ich hatte Spass daran.
 Bei den Zweiten Arbeitspaketen wollte ich zuerst eine Liste erstellen. Aber die Liste war zu schwierig und ich konnte keines erledigen, ich brauchte einen neuen Plan.
 Bei den dritten Arbeitspaketen wollte ich mich an einem Numberguesser versuchen. Ich hatte einen grossen Code doch leider funktionierte dieser noch nicht. Ich musste die Fehler finden
@@ -50,7 +50,7 @@ Bei den Vierten Arbeitspaketen wollte ich den Numberguesser so ändern, dass er 
 Fazit: Ich habe jetzt eine funktionierendes Eingabefeld und einen nicht funktionierender Numberguesser
 ![grafik](https://github.com/user-attachments/assets/237557ba-2776-4618-9a66-5b323f7827d5)
 
-##Reflexion:
+## Reflexion:
 Ich denke ich habe gut gearbeitet und ich habe auch einiges über c# und Allgemein über das Programieren gelert. Ich habe mir immer mühe gegeben bei den Arbeitspaketen auch wenn es manchmal nicht geklappt hat.
 Und im Allgemeinen bin ich zufrieden mit meiner Arbeit 
 
