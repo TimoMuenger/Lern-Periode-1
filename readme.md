@@ -30,16 +30,16 @@ Das Programierne von etwas oder jemandem der dir verschiedene Fragen stellt (Alt
 -  [ ] Paket 3 Diese Liste in mein Programm einbauen
  - [ ] Paket 4 Nach weiteren Sachen schauen die man einbauen könnte
     
-  ✍️ Heute konnte ich kein Arbeitspaket erledigen, da mein vorhaben zu kompliziert für mein jetztiges können ist. Ich musss also meine Arbeitspakete umschreiben und eine besser Lösung finden.
+✍️ Heute konnte ich kein Arbeitspaket erledigen, da mein vorhaben zu kompliziert für mein jetztiges können ist. Ich musss also meine Arbeitspakete umschreiben und eine besser Lösung finden.
   Ich habe mir gedacht, dass ich vielleicht versuche einen random number guesser zu machen oder ähnliches.
 - [x] AP 1: Über den Numberguesser informieren
 - [x] AP 2: Selber einen Nuberguesser programieren 
        
-  ✍️ Heute konnte ich soweit alles erledigen aber leider funktioniert mein Code noch nicht richtig. Für das will ich vor den Ferien noch eine Lösung finden.
+✍️ Heute konnte ich soweit alles erledigen aber leider funktioniert mein Code noch nicht richtig. Für das will ich vor den Ferien noch eine Lösung finden.
 - [ ] AP 1: Code studieren und herausfinden wo der Fehler liegt
 - [ ] AP 2: Eine lösung finden um den Fehler zu beheben
   
-  ✍️ Ich konnte beide Arbeitspakete so halb erledigen, da ich 2 von den 4 Fehlern im Code beheben konnte. Für die anderen beiden hätte ich noch etwas Zeit gebrauch.
+✍️ Ich konnte beide Arbeitspakete so halb erledigen, da ich 2 von den 4 Fehlern im Code beheben konnte. Für die anderen beiden hätte ich noch etwas Zeit gebrauch.
  Aber im Allgemeinen bin ich zufrieden mit den verschiedenen Codes.
 
 ## Zusammenfassung Projekt:
