@@ -39,7 +39,7 @@ Das Programierne von etwas oder jemandem der dir verschiedene Fragen stellt (Alt
 - [ ] AP 1: Code studieren und herausfinden wo der Fehler liegt
 - [ ] AP 2: Eine lösung finden um den Fehler zu beheben
   
- ✍️ Ich konnte beide Arbeitspakete so halb erledigen, da ich 2 von den 4 Fehlern im Code beheben konnte. Für die anderen beiden hätte ich noch etwas Zeit gebrauch.
+  ✍️ Ich konnte beide Arbeitspakete so halb erledigen, da ich 2 von den 4 Fehlern im Code beheben konnte. Für die anderen beiden hätte ich noch etwas Zeit gebrauch.
  Aber im Allgemeinen bin ich zufrieden mit den verschiedenen Codes.
 
 ## Zusammenfassung Projekt:
@@ -52,7 +52,9 @@ Fazit: Ich habe jetzt eine funktionierendes Eingabefeld und einen nicht funktion
 
 ## Reflexion:
 Ich denke ich habe gut gearbeitet und ich habe auch einiges über c# und Allgemein über das Programieren gelert. Ich habe mir immer mühe gegeben bei den Arbeitspaketen auch wenn es manchmal nicht geklappt hat.
-Und im Allgemeinen bin ich zufrieden mit meiner Arbeit 
+Und im Allgemeinen bin ich zufrieden mit meiner Arbeit.
 
+
+ ✍️ Heute hatte ich die Arbeitspakete bei den issues erst sehr spät gefunden. Das heisst, dass ich noch einen rechten Stress hatte. Dennoch habe ich versucht die Arbeitspakete so gut wie möglich zu erledigen und habe 5 von 6 geschafft. Bei dem einen habe ich es einfach nicht ganz verstanden wo ich den Code einfügen solle, ich denke aber das dies beim nächten mal geklärt werden kann.
 
 
