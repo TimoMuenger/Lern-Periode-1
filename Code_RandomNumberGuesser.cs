@@ -1,4 +1,4 @@
-﻿class Program
+class Program
 {
 
     static void Main(string[] args)
@@ -11,6 +11,8 @@
         int number;
         int guesses;
         string response;
+        
+
         while (playAgain)
         {
             guess = 0;
@@ -21,7 +23,18 @@
             while (guess != number)
             {
                 Console.WriteLine("Errate eine Nummer von" + min + " - " + max + " : ");
+                Console.ReadLine();
                 Console.WriteLine("Rate: " + guess);
+
+                try
+                {
+                    
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("Fehler!");
+                }
+
 
                 if (guess > number)
                 {
@@ -51,7 +64,25 @@
             {
                 playAgain = false;
             }
+            bool falscheAntwort = true;
+            while (falscheAntwort)
+            {
+                try
+                {
+                    
+                    falscheAntwort = false;
+                }
+                catch (Exception e)
+                {
+                
+                }
+                   
+                
+            }
+
+
         }
+
 
 
         Console.ReadKey();
